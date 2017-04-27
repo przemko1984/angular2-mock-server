@@ -1,10 +1,24 @@
 {
 	"authors": [
-    "Author 1",
-    "Author 2",
-    "Author 3",
-    "Author 4",
-    "Author 5",
-    "Author 6"
+    {
+      "id": 1370,
+      "firstName": "Polly",
+      "lastName": "Sosa"
+    },
+    {
+      "id": 8413,
+      "firstName": "Greta",
+      "lastName": "Richardson"
+    },
+    {
+      "id": 7458,
+      "firstName": "Deana",
+      "lastName": "Bruce"
+    },
+    {
+      "id": 5508,
+      "firstName": "Patsy",
+      "lastName": "Bright"
+    }
   ]
 }
